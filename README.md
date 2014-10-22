@@ -1,0 +1,1 @@
+Boilerplate for forking node js child process. Helps in CPU intensive tasks
