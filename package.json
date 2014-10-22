@@ -1,0 +1,18 @@
+{
+  "name": "childprocess",
+  "private": false,
+  "version": "0.0.1",
+  "description": "Boilerplate for forking node js child process. Helps in CPU intensive tasks",
+  "keywords": [],
+  "dependencies": {
+    "express": "~4.0.0",
+    "async": "*",
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vivekdk/childprocess/blob/master/index.js"
+  },
+  "author": "Vivek DK",
+  "license": ""
+}

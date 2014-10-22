@@ -1,5 +1,4 @@
 var express 		 = require('express');
-var MongoClient 	 = require('mongodb').MongoClient;
 var http 			 = require('http');
 var async 			 = require('async');
 
